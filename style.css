@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(rgb(236, 174, 57) 0%, rgb(255, 115, 0) 100%);
+}
+
+#mainDiv{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius:90px;
+    margin-bottom: 40px;
+    margin-right: 10px;
+    margin-left: 10px;
+    box-shadow: 5px 5px black;
+    border-width: 10px;
+    background-color: rgb(241, 180, 12);
+    
+    
+}
+
+canvas{
+    border-color:rgb(153, 129, 129);
+    border-style: ridge;
+    border-width: 10px;
+    margin-left: 60px;
+    margin-right: 10px;
+    background-color: black;
+}
